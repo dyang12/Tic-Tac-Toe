@@ -1,0 +1,54 @@
+.board {
+	width: 636px;
+	height: 636px;
+	background-color: orange;
+
+	text-align: center;
+	vertical-align: middle;
+	font-family: "Verdana", sans-serif;
+	font-size: 150px;
+}
+
+.playerX {
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	border-style: solid;
+	border-width: 1px;
+	background-color: blue;
+	float: left;
+
+	text-align: center;
+	vertical-align: middle;
+	font-family: "Verdana", sans-serif;
+	font-size: 150px;
+}
+.playerO {
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	border-style: solid;
+	border-width: 1px;
+	background-color: red;
+	float: left;
+
+	text-align: center;
+	vertical-align: middle;
+	font-family: "Verdana", sans-serif;
+	font-size: 150px;
+}
+
+.board div {
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	border-style: solid;
+	border-width: 1px;
+/*	background-color: orange;*/
+	float: left;
+
+	text-align: center;
+	vertical-align: middle;
+	font-family: "Verdana", sans-serif;
+	font-size: 150px;
+}
